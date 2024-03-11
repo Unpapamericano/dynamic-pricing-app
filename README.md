@@ -1,4 +1,4 @@
-##Dynamic Pricing Prediction API
+Dynamic Pricing Prediction API
 Welcome to the Dynamic Pricing Prediction API! This Flask-based web application provides a simple API for predicting dynamic prices based on historical pricing data. The underlying machine learning model is a Linear Regression model trained on historical product prices and user interaction history.
 
 ##Getting Started
